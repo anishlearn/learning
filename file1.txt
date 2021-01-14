@@ -1,0 +1,3 @@
+hello 
+Im learning GIT
+This is first file 
